@@ -1,8 +1,8 @@
 # SNBeagle
 
 Prerequisites:
-Beaglebone Black-wireless
-Debian
+Beaglebone Black-wireless,
+Debian,
 Python 3
 
 1. Download code to local
