@@ -1,5 +1,10 @@
 # SNBeagle
 
+Prerequisites:
+Beaglebone Black-wireless
+Debian
+Python 3
+
 1. Download code to local
 2. Read documentation
 3. Unzip Adafruit_CircuitPython_BNO055-master, boto-2.6.0, PyBBIO-master
